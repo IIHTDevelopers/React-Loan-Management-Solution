@@ -9,7 +9,3 @@
 	npm run test -> to run all test cases. It is mandatory to run this command before submission of workspace -> takes 5 to 6 min  
 
 * You may also run “npm run jest” while developing the solution to re-factor the code to pass the test-cases.
-
-* To ensure your code is saved and available for later use, remember to use the CTRL+Shift+B command on your code IDE.
-   This will push or save the updated contents in the internal git/repository.
-   It is also important to use CTRL+Shift+B before the final submission to evaluate the code quality.
